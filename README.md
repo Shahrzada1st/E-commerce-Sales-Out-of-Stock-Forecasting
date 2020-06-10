@@ -1,4 +1,4 @@
-# E-commerce-Sales-Out-of-Stock-Forecasting
+## E-commerce-Sales-Out-of-Stock-Forecasting
 
 #### Introduction and background
 This project is created based on a real business problem at a Food company. 
